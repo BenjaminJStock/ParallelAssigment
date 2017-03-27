@@ -33,4 +33,6 @@ short dataset is “weather_lincolnshire_short.txt”. More details about the fi
 “readme.txt” file. The output results and performance measures should be reported in a console
 window in a clear and readable format.
 The main assessment criteria for this task are related to the correctness of the developed algorithms
-and effectiveness of optimisation s
+and effectiveness of optimisation strategies. The code should be well commented and clearly
+structured into functional blocks.
+
